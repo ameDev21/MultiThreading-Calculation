@@ -1,2 +1,2 @@
 # MultiThreading-Calculation
-a simple program that calculates with thread arithmetic expression
+a simple program that calculates with threads arithmetics expressions
